@@ -9,6 +9,8 @@ This repository contains my solutions to the **LeetCode 75** problems, written i
 🟥 [░░░░░░░░░░░░░░░░░░░░] 0.0%
 
 
+
+
 ---
 
 ## 🎯 Goal
@@ -20,7 +22,7 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 
 | #  | Problem | Difficulty | Status | Solution Link |
 |----|---------|------------|--------|---------------|
-| 1  | - | Easy | ❌ | https://github.com/AbdiD21/LeetCode-75/blob/main/Is%20Subsequence.py |
+| 1  | 392. Is Subsequence| Easy | ❌ | https://github.com/AbdiD21/LeetCode-75/blob/main/Is%20Subsequence.py |
 | 2  | - | Easy | ❌ | - |
 | 3  | - | Easy | ❌ | - |
 | 4  | - | Easy | ❌ | - |
@@ -100,3 +102,11 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 
 ✅ = Solved  
 ❌ = Not yet solved  
+
+## 📊 Summary by Difficulty
+
+| Difficulty | Total | Solved | Unsolved |
+|------------|-------|--------|----------|
+| Easy       | -     | -      | -        |
+| Medium     | -     | -      | -        |
+| Hard       | -     | -      | -        |
