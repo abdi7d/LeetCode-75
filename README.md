@@ -1,4 +1,3 @@
-"# LeetCode-75" 
 # 🏆 LeetCode 75 Solutions
 
 This repository contains my solutions to the **LeetCode 75** problems, written in Python.
@@ -7,8 +6,6 @@ This repository contains my solutions to the **LeetCode 75** problems, written i
 
 ## 📊 Progress
 🟥 [░░░░░░░░░░░░░░░░░░░░] 0.0%
-
-
 
 
 ---
@@ -22,7 +19,7 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 
 | #  | Problem | Difficulty | Status | Solution Link |
 |----|---------|------------|--------|---------------|
-| 1  | 392. Is Subsequence| Easy | ❌ | https://github.com/AbdiD21/LeetCode-75/blob/main/Is%20Subsequence.py |
+| 1  | - | Easy | ❌ | - |
 | 2  | - | Easy | ❌ | - |
 | 3  | - | Easy | ❌ | - |
 | 4  | - | Easy | ❌ | - |
@@ -102,6 +99,7 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 
 ✅ = Solved  
 ❌ = Not yet solved  
+
 
 ## 📊 Summary by Difficulty
 
