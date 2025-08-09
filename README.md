@@ -5,40 +5,21 @@ This repository contains my solutions to the **LeetCode 75** problems, written i
 ---
 
 ## 📊 Progress
-🟥 [░░░░░░░░░░░░░░░░░░░░] 2.7%
-
-
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-=======
-
-
-
-
-
->>>>>>> 09b5da1a63adcfe51fbf637d98e923a771000f4f
-
-
+🟥 [░░░░░░░░░░░░░░░░░░░░] 1.3%
 
 ---
 
 ## 🎯 Goal
+
 Solve all **75 problems** from the LeetCode 75 list, with clean and optimized solutions.
 
 ---
 
 ## 📋 Problem List
 
-| #  | Problem | Difficulty | Status | Solution Link |
-|----|---------|------------|--------|---------------|
-| 1 | - | Easy | ✅ | [01_move_zeros.py](01_move_zeros.py) |
+| #   | Problem                                | Difficulty | Status | Solution Link                                |
+| --- | -------------------------------------- | ---------- | ------ | -------------------------------------------- |
+| 1 | - | Easy | ❌ | - |
 | 2 | [Is Subsequence](02_is_subsequence.py) | Easy | ✅ | [02_is_subsequence.py](02_is_subsequence.py) |
 | 3 | - | Easy | ❌ | - |
 | 4 | - | Easy | ❌ | - |
@@ -117,13 +98,12 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 ---
 
 ✅ = Solved  
-❌ = Not yet solved  
-
+❌ = Not yet solved
 
 ## 📊 Summary by Difficulty
 
 | Difficulty | Total | Solved | Unsolved |
-|------------|-------|--------|----------|
+| ---------- | ----- | ------ | -------- |
 | Easy       | -     | -      | -        |
 | Medium     | -     | -      | -        |
 | Hard       | -     | -      | -        |
