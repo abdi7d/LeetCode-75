@@ -82,7 +82,7 @@ def update_readme():
         unsolved = total - solved
         summary_lines.append(f"| {diff} | {total} | {solved} | {unsolved} |")
     summary_text = "\n".join(summary_lines) + "\n"
-    summary_pattern = re.compile(r"## 📊 Summary by Difficulty\n(?:\|.*\n)+", re.DOTALL)
+    summary_pattern = re.compile(r"## 📊 Summary by Difficulty\n(?:\n|.)*?(?=\n##|\Z)", re.DOTALL)
     if "## 📊 Summary by Difficulty" in updated_content:
         updated_content = summary_pattern.sub(summary_text, updated_content)
     else:
