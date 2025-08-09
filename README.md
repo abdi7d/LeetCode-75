@@ -38,6 +38,7 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 
 | #  | Problem | Difficulty | Status | Solution Link |
 |----|---------|------------|--------|---------------|
+<<<<<<< HEAD
 | 1  | - | Easy | ❌ | - |
 | 2  | [ Is Subsequence](Is Subsequence) | Easy | ✅ | [02_is_subsequence.py](02_is_subsequence.py) |
 | 3  | - | Easy | ❌ | - |
@@ -47,6 +48,17 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 | 7  | - | Medium | ❌ | - |
 | 8  | - | Hard | ❌ | - |
 | 9  | - | Easy | ❌ | - |
+=======
+| 1 | - | Easy | ❌ | - |
+| 2 | [ Is Subsequence](02_is_subsequence.py) | Easy | ✅ | [02_is_subsequence.py](02_is_subsequence.py) |
+| 3 | - | Easy | ❌ | - |
+| 4 | - | Easy | ❌ | - |
+| 5 | - | Medium | ❌ | - |
+| 6 | - | Medium | ❌ | - |
+| 7 | - | Medium | ❌ | - |
+| 8 | - | Hard | ❌ | - |
+| 9 | - | Easy | ❌ | - |
+>>>>>>> dae6e4f575e7259c2c622f1fb7ce9a6c2c84157f
 | 10 | - | Medium | ❌ | - |
 | 11 | - | Medium | ❌ | - |
 | 12 | - | Medium | ❌ | - |
