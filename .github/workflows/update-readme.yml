@@ -1,0 +1,34 @@
+name: Update README Progress
+
+on:
+  push:
+    paths:
+      - "**.py"
+      - "README.md"
+  workflow_dispatch:  # allows manual run from GitHub's UI
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run update script
+        run: python update_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README progress" || echo "No changes to commit"
+          git push
