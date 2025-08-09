@@ -5,7 +5,7 @@ This repository contains my solutions to the **LeetCode 75** problems, written i
 ---
 
 ## 📊 Progress
-🟥 [░░░░░░░░░░░░░░░░░░░░] 1.3%
+🟥 [░░░░░░░░░░░░░░░░░░░░] 2.4%
 
 
 
@@ -39,15 +39,15 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 | #  | Problem | Difficulty | Status | Solution Link |
 |----|---------|------------|--------|---------------|
 <<<<<<< HEAD
-| 1  | - | Easy | ❌ | - |
-| 2  | [ Is Subsequence](Is Subsequence) | Easy | ✅ | [02_is_subsequence.py](02_is_subsequence.py) |
-| 3  | - | Easy | ❌ | - |
-| 4  | - | Easy | ❌ | - |
-| 5  | - | Medium | ❌ | - |
-| 6  | - | Medium | ❌ | - |
-| 7  | - | Medium | ❌ | - |
-| 8  | - | Hard | ❌ | - |
-| 9  | - | Easy | ❌ | - |
+| 1 | - | Easy | ❌ | - |
+| 2 | [ Is Subsequence](Is Subsequence) | Easy | ✅ | [02_is_subsequence.py](02_is_subsequence.py) |
+| 3 | - | Easy | ❌ | - |
+| 4 | - | Easy | ❌ | - |
+| 5 | - | Medium | ❌ | - |
+| 6 | - | Medium | ❌ | - |
+| 7 | - | Medium | ❌ | - |
+| 8 | - | Hard | ❌ | - |
+| 9 | - | Easy | ❌ | - |
 =======
 | 1 | - | Easy | ❌ | - |
 | 2 | [ Is Subsequence](02_is_subsequence.py) | Easy | ✅ | [02_is_subsequence.py](02_is_subsequence.py) |
