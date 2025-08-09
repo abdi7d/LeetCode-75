@@ -20,7 +20,7 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 | #  | Problem | Difficulty | Status | Solution Link |
 |----|---------|------------|--------|---------------|
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ❌ | - |
-| 2  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | ❌ | - |
+| 2  | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | ❌ | https://github.com/AbdiD21/LeetCode-75/blob/main/Is%20Subsequence.py |
 | 3  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | ❌ | - |
 | 4  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | ❌ | - |
 | 5  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | ❌ | - |
