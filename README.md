@@ -12,6 +12,7 @@ This repository contains my solutions to the **LeetCode 75** problems, written i
 
 
 
+
 ---
 
 ## 🎯 Goal
@@ -23,7 +24,7 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 
 | #  | Problem | Difficulty | Status | Solution Link |
 |----|---------|------------|--------|---------------|
-| 1  | 392. Is Subsequence | Easy | ✅ | https://leetcode.com/problems/is-subsequence/?envType=study-plan-v2&envId=leetcode-75 |
+| 1  | 392. Is Subsequence | Easy | ❌ | https://leetcode.com/problems/is-subsequence/?envType=study-plan-v2&envId=leetcode-75 |
 | 2  | - | Easy | ❌ | - |
 | 3  | - | Easy | ❌ | - |
 | 4  | - | Easy | ❌ | - |
