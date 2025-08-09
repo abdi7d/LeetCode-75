@@ -36,8 +36,8 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 
 | #  | Problem | Difficulty | Status | Solution Link |
 |----|---------|------------|--------|---------------|
-| 1  | [01_move_zeros.py](01_move_zeros.py) | Easy | ✅ | [01_move_zeros.py](01_move_zeros.py) |
-| 2  | [02_is_subsequence.py](02_is_subsequence.py) | Easy | ✅ | [02_is_subsequence.py](02_is_subsequence.py) |
+| 1  | [Move zeros](01_move_zeros.py) | Easy | ✅ | [01_move_zeros.py](01_move_zeros.py) |
+| 2  | [ Is Subsequence](02_is_subsequence.py) | Easy | ✅ | [02_is_subsequence.py](02_is_subsequence.py) |
 | 3  | - | Easy | ❌ | - |
 | 4  | - | Easy | ❌ | - |
 | 5  | - | Medium | ❌ | - |
