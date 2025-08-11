@@ -11,4 +11,4 @@ class Solution:
         return s_ptr == len(s)
 
 # Time Complexity: O(n)
- # Space Complexity: O(1)
+ # Space Complexity: O(1) constant extra space)
