@@ -9,3 +9,5 @@ class Solution:
             t_ptr += 1
             
         return s_ptr == len(s)
+
+# Time Complexity: O(n)
