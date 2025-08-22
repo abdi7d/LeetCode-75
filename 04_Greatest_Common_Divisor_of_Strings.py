@@ -10,3 +10,8 @@ class Solution:
                 a, b = b, a % b
             return a
         
+        # Length of the GCD string
+        len_gcd = gcd(len(str1), len(str2))
+        
+        # Return the prefix of str1 of length len_gcd, which must be the GCD string
+        return str1[:len_gcd]
