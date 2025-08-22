@@ -22,7 +22,7 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 | 1 | [Move Zeros](01_move_zeros.py) | Easy | ✅ | [01_move_zeros.py](01_move_zeros.py) |
 | 2 | [Is Subsequence](02_is_subsequence.py) | Easy | ✅ | [02_is_subsequence.py](02_is_subsequence.py) |
 | 3 | [Merge Strings Alternately](03_Merge_Strings_Alternately) | Easy | ✅ | [03_Merge_Strings_Alternately.py](03_Merge_Strings_Alternately.py) |
-| 4 | [Greatest Common Divisor of Strings](04_Greatest_Common_Divisor_of_Strings.py) | Easy | ✅ | [04_Greatest_Common_Divisor_of_Strings.py](04_Greatest_Common_Divisor_of_Strings.py) |
+| 4 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | ✅ | [04_Greatest_Common_Divisor_of_Strings.py](04_Greatest_Common_Divisor_of_Strings.py) |
 | 5 | - | Medium | ❌ | - |
 | 6 | - | Medium | ❌ | - |
 | 7 | - | Medium | ❌ | - |
