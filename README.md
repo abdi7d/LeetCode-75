@@ -5,7 +5,7 @@ This repository contains my solutions to the **LeetCode 75** problems, written i
 ---
 
 ## 📊 Progress
-🟥 [░░░░░░░░░░░░░░░░░░░░] 4.0%
+🟥 [█░░░░░░░░░░░░░░░░░░░] 5.3%
 
 ---
 
@@ -22,7 +22,7 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 | 1 | [Move Zeros](01_move_zeros.py) | Easy | ✅ | [01_move_zeros.py](01_move_zeros.py) |
 | 2 | [Is Subsequence](02_is_subsequence.py) | Easy | ✅ | [02_is_subsequence.py](02_is_subsequence.py) |
 | 3 | [Merge Strings Alternately](03_Merge_Strings_Alternately) | Easy | ✅ | [03_Merge_Strings_Alternately.py](03_Merge_Strings_Alternately.py) |
-| 4 | - | Easy | ❌ | - |
+| 4 | - | Easy | ✅ | [04_Greatest_Common_Divisor_of_Strings.py](04_Greatest_Common_Divisor_of_Strings.py) |
 | 5 | - | Medium | ❌ | - |
 | 6 | - | Medium | ❌ | - |
 | 7 | - | Medium | ❌ | - |
@@ -104,6 +104,6 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 
 | Difficulty | Total | Solved | Unsolved |
 |------------|-------|--------|----------|
-| Easy | 14 | 3 | 11 |
+| Easy | 14 | 4 | 10 |
 | Medium | 49 | 0 | 49 |
 | Hard | 12 | 0 | 12 |
