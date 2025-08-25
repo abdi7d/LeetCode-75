@@ -104,6 +104,6 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 
 | Difficulty | Total | Solved | Unsolved |
 |------------|-------|--------|----------|
-| Easy | 22 | 4 | 10 |
+| Easy | 22 | 4 | 18 |
 | Medium | 53 | 0 | 53 |
 | Hard | 0 | 0 | 0 |
