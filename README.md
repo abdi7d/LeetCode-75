@@ -23,29 +23,29 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 | 2 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | ✅ | [Solution](02_is_subsequence.py) |
 | 3 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | ✅ | [Solution](03_Merge_Strings_Alternately.py) |
 | 4 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | ✅ | [Solution](04_Greatest_Common_Divisor_of_Strings.py) |
-| 5 | - | Medium | ❌ | - |
-| 6 | - | Medium | ❌ | - |
-| 7 | - | Medium | ❌ | - |
-| 8 | - | Hard | ❌ | - |
-| 9 | - | Easy | ❌ | - |
+| 5 | - | Easy | ❌ | - |
+| 6 | - | Easy | ❌ | - |
+| 7 | - | Easy | ❌ | - |
+| 8 | - | Medium | ❌ | - |
+| 9 | - | Medium | ❌ | - |
 | 10 | - | Medium | ❌ | - |
 | 11 | - | Medium | ❌ | - |
-| 12 | - | Medium | ❌ | - |
-| 13 | - | Medium | ❌ | - |
-| 14 | - | Easy | ❌ | - |
+| 12 | - | Easy | ❌ | - |
+| 13 | - | Easy | ❌ | - |
+| 14 | - | Medium | ❌ | - |
 | 15 | - | Medium | ❌ | - |
-| 16 | - | Medium | ❌ | - |
+| 16 | - | Easy | ❌ | - |
 | 17 | - | Medium | ❌ | - |
 | 18 | - | Medium | ❌ | - |
-| 19 | - | Hard | ❌ | - |
-| 20 | - | Medium | ❌ | - |
-| 21 | - | Medium | ❌ | - |
-| 22 | - | Medium | ❌ | - |
-| 23 | - | Medium | ❌ | - |
+| 19 | - | Medium | ❌ | - |
+| 20 | - | Easy | ❌ | - |
+| 21 | - | Easy | ❌ | - |
+| 22 | - | Easy | ❌ | - |
+| 23 | - | Easy | ❌ | - |
 | 24 | - | Medium | ❌ | - |
 | 25 | - | Medium | ❌ | - |
 | 26 | - | Medium | ❌ | - |
-| 27 | - | Hard | ❌ | - |
+| 27 | - | Medium | ❌ | - |
 | 28 | - | Medium | ❌ | - |
 | 29 | - | Easy | ❌ | - |
 | 30 | - | Medium | ❌ | - |
@@ -53,44 +53,44 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 | 32 | - | Medium | ❌ | - |
 | 33 | - | Medium | ❌ | - |
 | 34 | - | Medium | ❌ | - |
-| 35 | - | Hard | ❌ | - |
-| 36 | - | Easy | ❌ | - |
-| 37 | - | Easy | ❌ | - |
-| 38 | - | Easy | ❌ | - |
+| 35 | - | Medium | ❌ | - |
+| 36 | - | Medium | ❌ | - |
+| 37 | - | Medium | ❌ | - |
+| 38 | - | Medium | ❌ | - |
 | 39 | - | Easy | ❌ | - |
 | 40 | - | Easy | ❌ | - |
-| 41 | - | Easy | ❌ | - |
+| 41 | - | Medium | ❌ | - |
 | 42 | - | Medium | ❌ | - |
 | 43 | - | Medium | ❌ | - |
 | 44 | - | Medium | ❌ | - |
 | 45 | - | Medium | ❌ | - |
 | 46 | - | Medium | ❌ | - |
-| 47 | - | Medium | ❌ | - |
+| 47 | - | Easy | ❌ | - |
 | 48 | - | Medium | ❌ | - |
-| 49 | - | Hard | ❌ | - |
-| 50 | - | Hard | ❌ | - |
+| 49 | - | Medium | ❌ | - |
+| 50 | - | Medium | ❌ | - |
 | 51 | - | Medium | ❌ | - |
 | 52 | - | Medium | ❌ | - |
-| 53 | - | Hard | ❌ | - |
+| 53 | - | Medium | ❌ | - |
 | 54 | - | Medium | ❌ | - |
 | 55 | - | Medium | ❌ | - |
 | 56 | - | Medium | ❌ | - |
 | 57 | - | Medium | ❌ | - |
 | 58 | - | Medium | ❌ | - |
-| 59 | - | Medium | ❌ | - |
-| 60 | - | Medium | ❌ | - |
+| 59 | - | Easy | ❌ | - |
+| 60 | - | Easy | ❌ | - |
 | 61 | - | Medium | ❌ | - |
 | 62 | - | Medium | ❌ | - |
 | 63 | - | Medium | ❌ | - |
 | 64 | - | Medium | ❌ | - |
-| 65 | - | Easy | ❌ | - |
-| 66 | - | Medium | ❌ | - |
-| 67 | - | Hard | ❌ | - |
+| 65 | - | Medium | ❌ | - |
+| 66 | - | Easy | ❌ | - |
+| 67 | - | Easy | ❌ | - |
 | 68 | - | Medium | ❌ | - |
-| 69 | - | Hard | ❌ | - |
-| 70 | - | Hard | ❌ | - |
-| 71 | - | Hard | ❌ | - |
-| 72 | - | Hard | ❌ | - |
+| 69 | - | Medium | ❌ | - |
+| 70 | - | Medium | ❌ | - |
+| 71 | - | Medium | ❌ | - |
+| 72 | - | Medium | ❌ | - |
 | 73 | - | Medium | ❌ | - |
 | 74 | - | Medium | ❌ | - |
 | 75 | - | Medium | ❌ | - |
@@ -104,6 +104,6 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 
 | Difficulty | Total | Solved | Unsolved |
 |------------|-------|--------|----------|
-| Easy | 14 | 4 | 10 |
+| Easy | 22 | 4 | 10 |
 | Medium | 49 | 0 | 49 |
 | Hard | 12 | 0 | 12 |
