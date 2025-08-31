@@ -5,7 +5,7 @@ This repository contains my solutions to the **LeetCode 75** problems, written i
 ---
 
 ## 📊 Progress
-🟥 [█░░░░░░░░░░░░░░░░░░░] 5.3%
+🟥 [█░░░░░░░░░░░░░░░░░░░] 6.7%
 
 ---
 
@@ -23,7 +23,7 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 | 2 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | ✅ | [02_is_subsequence.py](02_is_subsequence.py) |
 | 3 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | ✅ | [03_Merge_Strings_Alternately.py](03_Merge_Strings_Alternately.py) |
 | 4 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | ✅ | [04_Greatest_Common_Divisor_of_Strings.py](04_Greatest_Common_Divisor_of_Strings.py) |
-| 5 | - | Medium | ❌ | - |
+| 5 | - | Easy | ❌ | - |
 | 6 | - | Easy | ❌ | - |
 | 7 | - | Easy | ❌ | - |
 | 8 | - | Medium | ❌ | - |
@@ -104,6 +104,6 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 
 | Difficulty | Total | Solved | Unsolved |
 |------------|-------|--------|----------|
-| Easy | 22 | 4 | 18 |
+| Easy | 22 | 5 | 17 |
 | Medium | 53 | 0 | 53 |
 | Hard | 0 | 0 | 0 |
