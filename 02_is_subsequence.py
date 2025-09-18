@@ -11,5 +11,4 @@ class Solution:
         return s_ptr == len(s)
 
 # Time Complexity: O(n) where n = len(t) (because t is always scanned fully or almost fully)
-
- # Space Complexity: O(1) constant extra space)
+# Space Complexity: O(1) constant extra space)
