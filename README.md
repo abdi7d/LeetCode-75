@@ -24,7 +24,7 @@ Solve all **75 problems** from the LeetCode 75 list, with clean and optimized so
 | 3 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | ✅ | [03_Merge_Strings_Alternately.py](03_Merge_Strings_Alternately.py) |
 | 4 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | ✅ | [04_Greatest_Common_Divisor_of_Strings.py](04_Greatest_Common_Divisor_of_Strings.py) |
 | 5 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/?envType=study-plan-v2&envId=leetcode-75) | Medium | ✅ | [05_Find_Peak_Element.py](05_Find_Peak_Element.py) |
-| 6 | [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/?envType=study-plan-v2&envId=leetcode-75) | Medium | ✅ | [06_Removing_Stars_From_a_String.py](06_Removing_Stars_From_a_String.py) |
+| 6 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/?envType=study-plan-v2&envId=leetcode-75) | Medium | ✅ | [06_Removing_Stars_From_a_String.py](06_Removing_Stars_From_a_String.py) |
 | 7 | - | Easy | ❌ | - |
 | 8 | - | Medium | ❌ | - |
 | 9 | - | Medium | ❌ | - |
