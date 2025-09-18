@@ -8,5 +8,6 @@ class Solution:
                 stack.append(ch)
         return ''.join(stack)
 
+
 # Time Complexity: O(n) (each char is processed once)
 # Space Complexity: O(n) (Stack stores result)
